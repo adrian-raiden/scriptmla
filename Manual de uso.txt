@@ -1,0 +1,9 @@
+Ejecutar script de Python utilizando CMD de la siguiente forma (debe tener instalado Python 3.0)
+
+-Abrir CMD desde inicio en Windows
+-Acceder al directorio donde se ubique el script utilizando el comando "cd". Por ejemplo, si el script se encuentra en la raíz del C, se debe colocar "cd c://"
+-Ejecutar el script utilizando el comando python de la siguiente forma:
+
+python scriptmla.py
+
+Colocar 0 para ingresar un usuario nuevo al cuál buscarle los productos o 1 para buscar por defecto y terminar las búsquedas.
